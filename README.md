@@ -1,4 +1,4 @@
-# 🚗 AI-Based Traffic Travel Time Prediction
+# AI-Based Traffic Travel Time Prediction
 
 ## Overview
 This project predicts travel time for urban trips using machine learning. The model analyzes factors such as distance, traffic density, weather conditions, time of day, and route locations to estimate accurate travel duration. The system can be useful for smart city traffic management, route planning, and congestion analysis.
