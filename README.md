@@ -83,11 +83,44 @@ These analyses confirm that the model captures real-world traffic patterns effec
 
 ```traffic-travel-time-prediction/
 │
-├── data/ # Dataset
-├── models/ # Saved model (optional)
-├── notebooks/ # Jupyter notebooks
-├── outputs/ # Plots and visualizations
-├── requirements.txt
+├── dataset/ # Dataset
+├── model/ # Saved model (optional)
+├── output/ # Plots and visualizations
 └── README.md
 ```
+
+---
+
+## How to Run
+
+1. Clone the repository
+``` git clone https://github.com/kavya181205/traffic-travel-time-prediction.git ```
+
+2. Install dependencies
+``` pip install -r requirements.txt ```
+
+3. Run the notebook or training script to reproduce results.
+
+---
+
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+---
+
+## Applications
+- Smart traffic management systems
+- Travel time estimation
+- Route optimization
+- Urban transportation planning
+
+---
+
+## Author
+Kavya Patel
 
