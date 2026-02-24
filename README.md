@@ -80,3 +80,14 @@ These analyses confirm that the model captures real-world traffic patterns effec
 ---
 
 ## Project Structure
+
+```traffic-travel-time-prediction/
+│
+├── data/ # Dataset
+├── models/ # Saved model (optional)
+├── notebooks/ # Jupyter notebooks
+├── outputs/ # Plots and visualizations
+├── requirements.txt
+└── README.md
+```
+
