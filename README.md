@@ -85,9 +85,9 @@ These analyses confirm that the model captures real-world traffic patterns effec
 │
 ├── dataset/ # Dataset
 ├── model/ # Saved model (optional)
-├── output/ # Plots and visualizations
 ├── requirements.txt
 └── README.md
+
 ```
 
 ---
